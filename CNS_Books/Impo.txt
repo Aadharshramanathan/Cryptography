@@ -1,0 +1,36 @@
+[0:15 am, 04/07/2022] Unknown: Mod 5: 
+Euler n Fermat th. proofs
+
+Mod 6: 
+CRT
+Primality testing
+Multiplicative Inverse of polynomial
+
+Mod 7:
+AES SubByte Transformation
+Key generation
+DES logic
+
+Mod 8:
+SHA Hashing logic
+Hash vs MAC
+HMAC diagram
+
+Mod 9:
+ECC only concept, no problems
+Digi sign, certificate(why needed)
+[1:30 am, 04/07/2022] Unknown: Diffie hellman.. Rsa..
+
+
+Imp topics:
+*All midsem shitz
+*Man in middle attack - Diffie hellman
+*Pub n pri key generation n encryption n decryption , attacks - RSA
+*Key generation n revocation - PKI
+*MAC, HMAC
+*How to do portscanning
+*Modes of operation
+*Key generation - ECC
+*Hashing algos MD5, SHA
+*DES algo
+*AES subbyte trans
